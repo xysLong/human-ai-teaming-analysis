@@ -1,0 +1,2082 @@
+{
+    "id": "240522-092908-421249",
+    "user": {
+        "user_id": "240522-092908-421249",
+        "sex-group": "male",
+        "age-group": "25-34",
+        "education-group": "Undergraduate Degree",
+        "condition": "10no10adex"
+    },
+    "ranking": [
+        "Gurt-Cabrio",
+        "Frontend-Luftklappe",
+        "Tuerschliessbuegel",
+        "Head-Airbag-Twist",
+        "Wasserablaufschlauch",
+        "DSC_Massekabel"
+    ],
+    "time": [
+        72.206379,
+        37.279887,
+        43.051387,
+        29.062086,
+        33.613272,
+        23.266803,
+        22.739157,
+        30.568383,
+        23.726423,
+        37.340967,
+        28.890779,
+        26.535986,
+        20.221942,
+        18.349926,
+        23.286694,
+        21.303274,
+        24.981046,
+        20.161284,
+        21.323956,
+        22.703835
+    ],
+    "summary": [
+        {
+            "index_i": 0,
+            "index_j": 0,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11AP02RCP09941_1Oj_Q4kBUwXShj1FMcno",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370261789,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 0,
+            "index_j": 1,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY73AW07NFN14854_OvtaRIEBX6rLWZlyZfLL",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370249365,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 0,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA21BP04RCP25178_rfvKkYkBUwXShj1FvJ_R",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370264436,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 0,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA11CG000CR92547_CEwQso0BMQo0ENBQmbvZ",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370267493,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 0,
+            "index_j": 4,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK08RCR83380_rB4MhY0Bsfk0sxt0cALw",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370272339,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 0,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ4C0XRCR54936_cfoo-owBMQo0ENBQ1VXz",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370269909,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 0,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA71AG00PCN38498_rpJBtIcBLWg_BhSSjVN1",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370307612,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ0XRCR91551_n3duq40BWicZSVJ7lXA2",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370309084,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA21GW050CN83490_9rPpSIkBctDhixja9Uoe",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370311029,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA31CG090CR60687_DDahHI0BWicZSVJ73pRu",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370322654,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBADZ2101RCR16194_F7mkzIsBMQo0ENBQuWSa",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370324621,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 1,
+            "index_j": 5,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY33AW03RFT06877_xNBkUY4BWicZSVJ7DcX7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370326446,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP0XRCR85956_pidgnY0Bsfk0sxt0dkKI",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370361379,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 1,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP03RCR89041_wEKlo40BMQo0ENBQBkdn",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370362547,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 2,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA53FJ00RCR78392_Fyl7ao0BMQo0ENBQE-bh",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370364220,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 3,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBA11AV08RFT06869_IdBcUY4BWicZSVJ7x74X",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370368099,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C00RCR68977_Xkd0RI0BWicZSVJ7_IbB",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370369333,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 2,
+            "index_j": 5,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11GV040CP43775_dUBhAIsBUwXShj1F51-7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370370768,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 0,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ0XRCR92912_FDLHrY0Bsfk0sxt0IkxK",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370392647,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 1,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C05RCR44237_dRRfWowBWicZSVJ7UrIP",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370393854,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 2,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBAJY8108RCR37648_WAmzNIwBWicZSVJ7HYc0",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370395259,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 3,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA51BL0X0CN38422_cz-Ns4cBgCrs9nhAL5xP",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370396955,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 4,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11GV010CP43765_CySw_4oBmbs2iq29fpB_ - Kopie",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370398067,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 3,
+            "index_j": 5,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA11AV030FS87473_WVqmzY0BMQo0ENBQwykE",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370399251,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 0,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY73AW04PFR31206_Qbh6kYgBphvdDuvqGAhd",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370421949,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA63FJ01RCR71732_lR3LVo0BMQo0ENBQ7jtP",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370427705,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA31GV030CP43758__gfo-ooBctDhixjav3iH",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370429083,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 3,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA11BM01RCR87160_gnFBoo0BWicZSVJ7Uyk9",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370433308,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C08RCR49125_M--qfYwBMQo0ENBQfYKw",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370431918,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 4,
+            "index_j": 5,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP01RCR85859_VyWBj40Bsfk0sxt08Ttu",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370430355,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 0,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBAFY41010CR70976_QxtgVI0BMQo0ENBQ6nTy",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370449372,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK07RCR92703_7Ui0rI0BMQo0ENBQQp-k",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370450987,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP00RCR89059_Q0IGpI0BMQo0ENBQz4qH",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370452653,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 3,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA51AX010FT31257_xfpECY8BMQo0ENBQS5PU",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370454004,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 4,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA61CC03RCR93622_qYA8wY0BWicZSVJ79ZQL",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370455213,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 5,
+            "index_j": 5,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP06RCR43192_YOOlWIwBMQo0ENBQeuIy",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370456579,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 0,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP03RCR46163_iRYjXowBWicZSVJ7qlRm",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370470261,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 1,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA21BP0XRCR92387_kHlnrY0BWicZSVJ7gDxo",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370471956,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP03RCR93588_mX6qs40BWicZSVJ7zgov",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370473636,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 3,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C01RCR70950_lQGARo0Bsfk0sxt04aQ9",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370475231,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY71AW0X0FR43498_QeZg6YgBpUCXOdhPCQle",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370476766,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 6,
+            "index_j": 5,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY43FK0XRCR84874_tiFliY0Bsfk0sxt0pS4u",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370479355,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA11CG090CR74449_fQ1sY40Bsfk0sxt00Lqm",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370500186,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 1,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA13BK00PCN35887_Cz0LoIcBgCrs9nhA4nDE",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370501252,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP02RCR48017_jtVLbIwBsfk0sxt05XQD",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370503135,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 3,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK08RCR91267_B3VlqI0BWicZSVJ7QoVL",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370505020,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY71AW090FS22217_raH_yYsBsfk0sxt0Fy3A",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370506492,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 7,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ4C02RCR79443_9S2heY0BMQo0ENBQlXmw",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370507973,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP09RCR66007_AhDlN40BMQo0ENBQs6G7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370524911,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 1,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA21GW050CN83490_BbPqSIkBctDhixjaDUsE",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370527532,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA71AG03PCN38463_jD8BtIcBgCrs9nhAPr3Y",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370529274,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 3,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ02RCR93908_-XyMsY0BWicZSVJ7CjaF",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370531260,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA11AV050FS87331_nEIizY0Bsfk0sxt0tHf4",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370533054,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 8,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBADZ4C01RCP69268_oxFzrYoBmbs2iq293nsq",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370533993,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 0,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C03RCR84610_WDgPiY0BMQo0ENBQkTMt",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370562255,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 1,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP0XRCR47603_3hqwZowBWicZSVJ7SAcF",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370564996,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 2,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBY41AW030FT30884_gCiSBo8BWicZSVJ7suhS",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370566284,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA12CG0X0CR92472_zHuLsI0BWicZSVJ7r1qS",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370568252,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 4,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP00RCR95525_dzhzwI0Bsfk0sxt0Lqc5",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370569494,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 9,
+            "index_j": 5,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA63FJ06RCR76764_zhAGaI0Bsfk0sxt0_cWH",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370570660,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 0,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11AP02RCP09941_1Oj_Q4kBUwXShj1FMcno",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370591868,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 1,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY73AW07NFN14854_OvtaRIEBX6rLWZlyZfLL",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370593068,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA21BP04RCP25178_rfvKkYkBUwXShj1FvJ_R",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370594468,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA11CG000CR92547_CEwQso0BMQo0ENBQmbvZ",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370596804,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 4,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK08RCR83380_rB4MhY0Bsfk0sxt0cALw",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370597995,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 10,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ4C0XRCR54936_cfoo-owBMQo0ENBQ1VXz",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370599476,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 0,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA71AG00PCN38498_rpJBtIcBLWg_BhSSjVN1",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370618241,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ0XRCR91551_n3duq40BWicZSVJ7lXA2",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370619684,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA21GW050CN83490_9rPpSIkBctDhixja9Uoe",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370621360,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA31CG090CR60687_DDahHI0BWicZSVJ73pRu",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370622924,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBADZ2101RCR16194_F7mkzIsBMQo0ENBQuWSa",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370624826,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 11,
+            "index_j": 5,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY33AW03RFT06877_xNBkUY4BWicZSVJ7DcX7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370626111,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP0XRCR85956_pidgnY0Bsfk0sxt0dkKI",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370637677,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 1,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP03RCR89041_wEKlo40BMQo0ENBQBkdn",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370639214,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 2,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA53FJ00RCR78392_Fyl7ao0BMQo0ENBQE-bh",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370642420,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 3,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBA11AV08RFT06869_IdBcUY4BWicZSVJ7x74X",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370643869,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C00RCR68977_Xkd0RI0BWicZSVJ7_IbB",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370645018,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 12,
+            "index_j": 5,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11GV040CP43775_dUBhAIsBUwXShj1F51-7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370646787,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 0,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ0XRCR92912_FDLHrY0Bsfk0sxt0IkxK",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370657715,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 1,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C05RCR44237_dRRfWowBWicZSVJ7UrIP",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370658524,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 2,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBAJY8108RCR37648_WAmzNIwBWicZSVJ7HYc0",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370660158,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 3,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA51BL0X0CN38422_cz-Ns4cBgCrs9nhAL5xP",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370661728,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 4,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA11GV010CP43765_CySw_4oBmbs2iq29fpB_ - Kopie",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370663540,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 13,
+            "index_j": 5,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA11AV030FS87473_WVqmzY0BMQo0ENBQwykE",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370664923,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 0,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY73AW04PFR31206_Qbh6kYgBphvdDuvqGAhd",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370681511,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA63FJ01RCR71732_lR3LVo0BMQo0ENBQ7jtP",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370682709,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA31GV030CP43758__gfo-ooBctDhixjav3iH",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370683878,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 3,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA11BM01RCR87160_gnFBoo0BWicZSVJ7Uyk9",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370688093,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 4,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C08RCR49125_M--qfYwBMQo0ENBQfYKw",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370686569,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 14,
+            "index_j": 5,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP01RCR85859_VyWBj40Bsfk0sxt08Ttu",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370685669,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 0,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBAFY41010CR70976_QxtgVI0BMQo0ENBQ6nTy",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370702644,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 1,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK07RCR92703_7Ui0rI0BMQo0ENBQQp-k",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370703710,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP00RCR89059_Q0IGpI0BMQo0ENBQz4qH",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370705181,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 3,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA51AX010FT31257_xfpECY8BMQo0ENBQS5PU",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370706793,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 4,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA61CC03RCR93622_qYA8wY0BWicZSVJ79ZQL",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370708277,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 15,
+            "index_j": 5,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP06RCR43192_YOOlWIwBMQo0ENBQeuIy",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370709808,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 0,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP03RCR46163_iRYjXowBWicZSVJ7qlRm",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370727024,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 1,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA21BP0XRCR92387_kHlnrY0BWicZSVJ7gDxo",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370728054,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP03RCR93588_mX6qs40BWicZSVJ7zgov",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370729159,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 3,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C01RCR70950_lQGARo0Bsfk0sxt04aQ9",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370730575,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY71AW0X0FR43498_QeZg6YgBpUCXOdhPCQle",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370731815,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 16,
+            "index_j": 5,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY43FK0XRCR84874_tiFliY0Bsfk0sxt0pS4u",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370734230,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA11CG090CR74449_fQ1sY40Bsfk0sxt00Lqm",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370749002,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 1,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA13BK00PCN35887_Cz0LoIcBgCrs9nhA4nDE",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370750231,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 2,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP02RCR48017_jtVLbIwBsfk0sxt05XQD",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370751624,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 3,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBY33FK08RCR91267_B3VlqI0BWicZSVJ7QoVL",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370752630,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "NOK",
+            "file": "WBY71AW090FS22217_raH_yYsBsfk0sxt0Fy3A",
+            "pics_label": false,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370753686,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 17,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ4C02RCR79443_9S2heY0BMQo0ENBQlXmw",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370754662,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 0,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "NOK",
+            "file": "WBA21BP09RCR66007_AhDlN40BMQo0ENBQs6G7",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370769589,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 1,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "NOK",
+            "file": "WBA21GW050CN83490_BbPqSIkBctDhixjaDUsE",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370770646,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 2,
+            "use_case": "Massekabel",
+            "sub_dir": "NOK",
+            "file": "WBA71AG03PCN38463_jD8BtIcBgCrs9nhAPr3Y",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370772254,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 3,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "OK",
+            "file": "WBA43FJ02RCR93908_-XyMsY0BWicZSVJ7CjaF",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370773350,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 4,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBA11AV050FS87331_nEIizY0Bsfk0sxt0tHf4",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370774598,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 18,
+            "index_j": 5,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "NOK",
+            "file": "WBADZ4C01RCP69268_oxFzrYoBmbs2iq293nsq",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370775888,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 0,
+            "use_case": "Gurt-Cabrio",
+            "sub_dir": "OK",
+            "file": "WBADZ2C03RCR84610_WDgPiY0BMQo0ENBQkTMt",
+            "pics_label": true,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370792010,
+                    false
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 1,
+            "use_case": "Tuerschliessbuegel",
+            "sub_dir": "OK",
+            "file": "WBA11AP0XRCR47603_3hqwZowBWicZSVJ7SAcF",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370793151,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 2,
+            "use_case": "Head-Airbag-Twist",
+            "sub_dir": "OK",
+            "file": "WBY41AW030FT30884_gCiSBo8BWicZSVJ7suhS",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370794806,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 3,
+            "use_case": "Frontend-Luftklappe",
+            "sub_dir": "OK",
+            "file": "WBA12CG0X0CR92472_zHuLsI0BWicZSVJ7r1qS",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370798666,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 4,
+            "use_case": "Massekabel",
+            "sub_dir": "OK",
+            "file": "WBA21BP00RCR95525_dzhzwI0Bsfk0sxt0Lqc5",
+            "pics_label": true,
+            "ai_advice": true,
+            "is_ok_user": true,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370797674,
+                    true
+                ]
+            ]
+        },
+        {
+            "index_i": 19,
+            "index_j": 5,
+            "use_case": "Wasserablaufschlauch",
+            "sub_dir": "NOK",
+            "file": "WBA63FJ06RCR76764_zhAGaI0Bsfk0sxt0_cWH",
+            "pics_label": false,
+            "ai_advice": false,
+            "is_ok_user": false,
+            "marks_user": [],
+            "timestamps": [
+                [
+                    1716370796528,
+                    false
+                ]
+            ]
+        }
+    ]
+}
